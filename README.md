@@ -29,7 +29,7 @@ The printer ships barebones with no mounting base — this design provides a stu
 
 - [Goojprt Qr203 58mm thermal printer](https://www.aliexpress.com/item/1005005979403268.html)
 - [DC power jack](https://www.aliexpress.com/item/33024078552.html)
-- M3 × 18mm countersunk screws
+- M3 × 16mm or M3 × 18mm countersunk screws
 - TTL cable for data connection
 
 ---
@@ -50,6 +50,6 @@ For wiring the thermal printer to a K210 module running Krux, refer to the offic
 
 ## License
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). If you remix, transform, or build upon this design, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
