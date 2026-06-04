@@ -2,7 +2,7 @@
 
 A 3D-printed enclosure for the **Goojprt Qr203 58mm thermal printer**. Designed in FreeCAD for use with [Krux](https://github.com/selfcustody/krux) running on K210 modules, but compatible with any application that uses this printer.
 
-The printer ships barebones with no mounting base — this design provides a sturdy enclosure with integrated cable management.
+The printer ships barebones with no mounting base — this design provides a basic enclosure and to hide some of the wiring.
 
 ---
 
@@ -52,4 +52,3 @@ For wiring the thermal printer to a K210 module running Krux, refer to the offic
 
 This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). If you remix, transform, or build upon this design, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-[![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
