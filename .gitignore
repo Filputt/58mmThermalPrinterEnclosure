@@ -1,0 +1,15 @@
+# FreeCAD backup files
+*.FCBak
+
+# FreeCAD source files (keep only Enclosure_CableHole.FCStd)
+Enclosure.FCStd
+
+# 3MF files (keep only ThermalPrinter-Print.3mf)
+Enclosure-Body.3mf
+Enclosure_CableHole-Body.3mf
+
+# Old README
+README.txt
+
+# Reference files
+Printer Wiring/
