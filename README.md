@@ -6,26 +6,29 @@ The printer ships barebones with no mounting base — this design provides a stu
 
 ---
 
+## Photos
+
+![Enclosure](Photos/Enclosure.jpg)
+
+![Enclosure with Krux](Photos/Enclosure%20with%20Krux.jpg)
+
+![Internals](Photos/Internals.jpg)
+
+---
+
 ## Design Files
 
 | File | Format | Description |
 |------|--------|-------------|
-| `Enclosure.FCStd` | FreeCAD | Source file for the standard enclosure |
-| `Enclosure_CableHole.FCStd` | FreeCAD | Source file for the cable-hole variant |
-| `Enclosure-Body.3mf` | 3MF | Ready-to-print standard enclosure |
-| `Enclosure_CableHole-Body.3mf` | 3MF | Ready-to-print with cable hole |
-| `ThermalPrinter-Print.3mf` | 3MF | Full thermal printer assembly |
-
-Two enclosure variants are provided:
-- **Standard** — clean enclosure with a small slot for TTL cable connection
-- **Cable hole** — includes an additional hole for the power plug
+| `Enclosure_CableHole.FCStd` | FreeCAD | Source file for the enclosure |
+| `ThermalPrinter-Print.3mf` | 3MF | Ready-to-print enclosure with cable hole |
 
 ---
 
 ## Hardware Requirements
 
 - [Goojprt Qr203 58mm thermal printer](https://www.aliexpress.com/item/1005005979403268.html)
-- [DC power jack](https://www.aliexpress.com/item/33024078552.html) (for the power plug hole variant)
+- [DC power jack](https://www.aliexpress.com/item/33024078552.html)
 - M3 × 18mm countersunk screws
 - TTL cable for data connection
 
@@ -33,7 +36,7 @@ Two enclosure variants are provided:
 
 ## Printing
 
-Load the `.3mf` file of your choice into your preferred slicer and print as-is. No special supports or settings are required.
+Load `ThermalPrinter-Print.3mf` into your preferred slicer and print as-is. No special supports or settings are required.
 
 ---
 
